@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrnimbus99.github.io/aws-certification-insights/sitemap.xml
